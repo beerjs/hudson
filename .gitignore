@@ -1,0 +1,6 @@
+.idea
+.bak
+scratch.*
+encrypt.*
+decrypt.*
+node_modules
