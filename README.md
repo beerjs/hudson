@@ -1,11 +1,10 @@
 # BeerJS JC
 
-BeerJS JC is a gathering group for Jersey City JavaScripters (NYC JavaScripters and visitors welcomed!) to get together for activities revolving around two things, beer and JavaScript!  Currently we organize events at [meetup.com/Jersey-City-JavaScript-Meetup](http://www.meetup.com/Jersey-City-JavaScript-Meetup), but we're experimenting here as well.
-
+BeerJS JC is a gathering group for Jersey City JavaScripters (NYC JavaScripters and visitors welcomed!) to get together for activities revolving around two things, beer and JavaScript!  Currently we organize events at [meetup.com/Hudson-County-JavaScript-Meetup](http://www.meetup.com/Hudson-County-JavaScript-Meetup), but we're experimenting here as well.
 
 ## Want to join?
 
-Click the watch button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, join [meetup.com/Jersey-City-JavaScript-Meetup](http://www.meetup.com/Jersey-City-JavaScript-Meetup), and keep your eye on the ['Meetup' label](https://github.com/beerjs/jc/issues?labels=meetup&page=1&state=open).
+Click the watch button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, join [meetup.com/Hudson-County-JavaScript-Meetup](http://www.meetup.com/Hudson-County-JavaScript-Meetup), and keep your eye on the ['Meetup' label](https://github.com/beerjs/jc/issues?labels=meetup&page=1&state=open).
 
 
 ## Want to help?
