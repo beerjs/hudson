@@ -2,6 +2,8 @@
 
 ![BeerJS - Bacon not included!](./images/beerjs-bacon.jpg)
 
+> BeerJS - bacon not included! <sup>sm</sup>
+
 BeerJS Hudson is a gathering group for Hudson County JavaScripters (NYC JavaScripters and visitors welcomed!) to get together for activities revolving around two things, beer and JavaScript!  Currently we organize events at [meetup.com/Hudson-County-JavaScript-Meetup](http://www.meetup.com/Hudson-County-JavaScript-Meetup), but we're experimenting here as well.
 
 ## Want to join?
